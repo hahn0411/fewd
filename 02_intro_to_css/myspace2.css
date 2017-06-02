@@ -1,0 +1,29 @@
+<style>
+                body{
+                    background-color: coral;
+                    color: white;
+
+                }
+
+                p{
+                    font-family: Arial, helvetica, sans-serif;
+                }
+                a{
+                    font-size:24px;
+                    font-weight: bold;
+
+                }
+                .fun-facts{
+                    background-color: white;
+                    color: black; 
+                }
+                #meme{
+                    width:300px;
+                    border:black 3px solid;
+
+                }
+                #contact{
+                  font-size:;
+                }
+        </style>
+
